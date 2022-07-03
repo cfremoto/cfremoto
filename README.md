@@ -14,7 +14,7 @@
 ```
 const cesar = {
   code: [javascript, typescript, html, css, mongodb, sql],
-  tools: [recat, redux, node, jest, nest, git, mongoose, postgres],
+  tools: [react, redux, node, jest, nest, git, mongoose, postgres],
   challenge: "I'm doing the #100DaysOfCode focused on javascript with node and react"
  }
 ```
