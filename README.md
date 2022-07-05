@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cesar A. Fernandez</h1>
 <h3 align="center">A passionate fullStack developer from Venezuela</h3>
+<h3 align="center">Abouth Me</h3>
+<p align="left">Soy un fullStack developer con preferencia por el back, aunq capaz en ambos lados!! Soy de los que se trabajar por un bien comun por encima de mis preferencias, compartiendo informacion, planteando hipotesis y de esta forma, Sumar, no veo imposibles sino retos! para implementar soluciones creativas, aplicando un pensamiento critico, aprendo de los errores y no señalo a nadie, no me gusta el modo automatico ni el letargo en el trabajo, siempre en movimiento, pensando en ideas nuevas.</p>
 
 - 🌱 I’m currently learning **Next**
 
